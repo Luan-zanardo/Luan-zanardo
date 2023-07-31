@@ -1,8 +1,4 @@
-<div>
-<a href="https://github.com/Luan-zanardo"> <img height="180em" src="https://github-readmestats.vercel.app/api/top-langs/?username=Luan-zanardo&layout=compact&theme=dracula&show_icons=true" />
-<img loading="lazy" height="180em" src="https://github-readmestats.vercel.app/api?username=Luan-zanardo&show_icons=true&theme=dracula&include_all_commits=true&count
-_private=true"/>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luan-zanardo&theme=dark&show_icons=true)
 
 
 <div>
