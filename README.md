@@ -1,4 +1,6 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luan-zanardo&theme=dark&show_icons=true)
+### Hi, I'm Luan!
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luan-zanardo&theme=midnight-purple&show_icons=true)
 
 
 <div>
