@@ -1,5 +1,5 @@
 <div align="center">
-  <table align="center">
+  <table align="center" bgcolor="ffffff">
     <tr>
       <td>
         𝐍𝐨𝐦𝐞: 𝐋𝐮𝐚𝐧 𝐙𝐜𝐮𝐡𝐢𝐧𝐚𝐥𝐢 𝐙𝐚𝐧𝐚𝐫𝐝𝐨
