@@ -11,6 +11,7 @@
 <br>𝘾𝙪𝙧𝙨𝙖𝙣𝙙𝙤 𝙏é𝙘𝙣𝙞𝙘𝙤 𝙙𝙚 𝙄𝙣𝙛𝙤𝙧𝙢á𝙩𝙞𝙘𝙖 | 𝟮° 𝙁𝙖𝙨𝙚
 
 <br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luan-zanardo&theme=midnight-purple&show_icons=true)
+
 <br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-zanardo&hide_progress=true)
 
 </div>
