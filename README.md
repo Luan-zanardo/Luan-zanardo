@@ -1,4 +1,3 @@
-<div align="center">
 <br>𝗦𝗘𝗝𝗔 𝗕𝗘𝗠-𝗩𝗜𝗡𝗗𝗢 𝗔𝗢 𝗠𝗘𝗨 𝗣𝗘𝗥𝗙𝗜𝗟!
 
 <br>𝐍𝐨𝐦𝐞: 𝐋𝐮𝐚𝐧 𝐙𝐜𝐮𝐡𝐢𝐧𝐚𝐥𝐢 𝐙𝐚𝐧𝐚𝐫𝐝𝐨
@@ -19,5 +18,3 @@ LINGUAGENS:
 ![](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 
 ![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
-
-</div>
