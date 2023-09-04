@@ -1,7 +1,7 @@
 ### Welcome to my profile, I'm Luan!
 
 <br>═════════════════ஜ۩۞۩ஜ════════════════════
-<br>          BEM-VINDO AO MEU PERFIL
+<br>nbsp;nbsp;nbsp;BEM-VINDO AO MEU PERFIL
 <br>═════════════════ஜ۩۞۩ஜ════════════════════
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luan-zanardo&theme=midnight-purple&show_icons=true)
