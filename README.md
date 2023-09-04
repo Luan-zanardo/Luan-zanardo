@@ -10,6 +10,7 @@
 <br>𝙀𝙣𝙨𝙞𝙣𝙤 𝙈é𝙙𝙞𝙤 | 𝙏𝙚𝙧𝙘𝙚𝙞𝙧ã𝙤
 <br>𝘾𝙪𝙧𝙨𝙖𝙣𝙙𝙤 𝙏é𝙘𝙣𝙞𝙘𝙤 𝙙𝙚 𝙄𝙣𝙛𝙤𝙧𝙢á𝙩𝙞𝙘𝙖 | 𝟮° 𝙁𝙖𝙨𝙚
 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luan-zanardo&theme=midnight-purple&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-zanardo&hide_progress=true)
