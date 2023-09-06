@@ -13,6 +13,8 @@
 
   <br>![Luan GitHub stats](https://github-readme-stats.vercel.app/api?username=Luan-zanardo&theme=midnight-purple&show_icons=true)
   <br>
+  <br>[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Luan-zanardo)](https://github.com/anuraghazra/github-readme-stats)
+  <br>
   <br><a href="https://github.com/arturbristot"><img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-zanardo&layout=compact&theme=midnight-purple&show_icons=true" />
 
   
