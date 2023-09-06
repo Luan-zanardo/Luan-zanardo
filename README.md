@@ -13,7 +13,7 @@
 
   <br>![Luan GitHub stats](https://github-readme-stats.vercel.app/api?username=Luan-zanardo&theme=midnight-purple&show_icons=true)
   <br>
-  <br><a href="https://github.com/arturbristot"><img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-zanardo&layout=compact&theme=midnight-purple&show_icons=true" />
+  <br><a href="https://github.com/Luan-zanardo"><img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-zanardo&layout=compact&theme=midnight-purple&show_icons=true" />
 
   
   𝗟𝗜𝗡𝗚𝗨𝗔𝗚𝗘𝗡𝗦:
