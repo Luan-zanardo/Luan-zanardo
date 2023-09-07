@@ -22,6 +22,5 @@
           ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
           ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
           ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-          ![](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)
-          ![](https://camo.githubusercontent.com/ad7293939c16e73991b8d60763373b710bf9e96923595e8dd90fb7dee464e9ce/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2d776f72646d61726b2e737667)
+          ![](https://img.shields.io/badge/MYSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 </div>
