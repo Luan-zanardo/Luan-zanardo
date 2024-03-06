@@ -15,11 +15,10 @@
   <br>
   <br><a href="https://github.com/Luan-zanardo"><img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-zanardo&layout=compact&theme=midnight-purple&show_icons=true" />
   
-  PROGRAMAS:
+  PROGRAMAS:<br>
           ![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-          ![](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-  <br>        
-  𝗟𝗜𝗡𝗚𝗨𝗔𝗚𝗘𝗡𝗦:
+          ![](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)      
+  𝗟𝗜𝗡𝗚𝗨𝗔𝗚𝗘𝗡𝗦:<br>
           <br>![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
           ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
           ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
