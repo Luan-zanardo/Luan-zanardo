@@ -14,8 +14,11 @@
   <br>![Luan GitHub stats](https://github-readme-stats.vercel.app/api?username=Luan-zanardo&theme=midnight-purple&show_icons=true)
   <br>
   <br><a href="https://github.com/Luan-zanardo"><img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-zanardo&layout=compact&theme=midnight-purple&show_icons=true" />
-
   
+  PROGRAMAS:
+          ![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg)
+          ![](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+          
   𝗟𝗜𝗡𝗚𝗨𝗔𝗚𝗘𝗡𝗦:
           <br>![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
           ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -24,5 +27,5 @@
           ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
           ![](https://img.shields.io/badge/MYSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)
           ![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-          ![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg)
+          ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 </div>
