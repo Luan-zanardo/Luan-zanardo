@@ -16,7 +16,7 @@
   <br><a href="https://github.com/Luan-zanardo"><img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-zanardo&layout=compact&theme=midnight-purple&show_icons=true" />
   
   𝗟𝗜𝗡𝗚𝗨𝗔𝗚𝗘𝗡𝗦:
-          ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+          <br>![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
           ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
           ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
           ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
