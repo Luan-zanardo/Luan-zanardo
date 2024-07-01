@@ -3,10 +3,10 @@
     <tr>
       <td>
         𝐍𝐨𝐦𝐞: 𝐋𝐮𝐚𝐧 𝐙𝐮𝐜𝐡𝐢𝐧𝐚𝐥𝐢 𝐙𝐚𝐧𝐚𝐫𝐝𝐨
-        <br>𝐈𝐝𝐚𝐝𝐞: 𝟏𝟕 𝐚𝐧𝐨𝐬
+        <br>𝐈𝐝𝐚𝐝𝐞: 𝟏8 𝐚𝐧𝐨𝐬
         <br>𝐂𝐞𝐥𝐮𝐥𝐚𝐫: 𝟒𝟖𝟗𝟗𝟗𝟑𝟖𝟎𝟐𝟎𝟑
         <br>𝐄𝐦𝐚𝐢𝐥: 𝐥𝐮𝐚𝐧𝐳𝐚𝐧𝐚𝐫𝐝𝐨𝟐𝟎𝟐𝟏@𝐨𝐮𝐭𝐥𝐨𝐨𝐤.𝐜𝐨𝐦
-        <br>𝐂𝐮𝐫𝐬𝐨 𝐝𝐞 𝐢𝐧𝐟𝐨𝐫𝐦á𝐭𝐢𝐜𝐚 | 𝟐° 𝗙𝗔𝗦𝗘 | 𝗦𝗔𝗧𝗖
+        <br>𝐂𝐮𝐫𝐬𝐨 𝐝𝐞 𝐢𝐧𝐟𝐨𝐫𝐦á𝐭𝐢𝐜𝐚 | 4° 𝗙𝗔𝗦𝗘 | 𝗦𝗔𝗧𝗖
       </td>
     </tr>
   </table>
@@ -17,7 +17,8 @@
   
   PROGRAMAS:
           <br>![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-          ![](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)<br>      
+          <a href="https://www.youtube.com/watch?v=cRoBt6AZgjc">![](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+          <a href="https://www.youtube.com/watch?v=cRoBt6AZgjc">![](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)
   𝗟𝗜𝗡𝗚𝗨𝗔𝗚𝗘𝗡𝗦:
           <br>![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
           ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
