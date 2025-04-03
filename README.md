@@ -5,8 +5,8 @@
 - 📞 Celular: (48) 9 9938-0203
 - 📫 Email: luanzanardo2021@outlook.com
 - 📚 Ensino médio completo
-- 💻 Curso de informática | 4° FASE | SATC
-- 🖥️ Engenharia de Software | 2° FASE | UNISATC
+- 💻 Curso de informática completo
+- 🖥️ Engenharia de Software | 3° FASE | UNISATC
 
 <br>![Luan GitHub stats](https://github-readme-stats.vercel.app/api?username=Luan-zanardo&theme=midnight-purple&show_icons=true)
 <br>
