@@ -1,7 +1,7 @@
 ## Bem-vindo
 
 - 🧐 Nome: Luan Zuchinali Zanardo
-- 🍰 Idade: 18 anos
+- 🍰 Idade: 19 anos
 - 📞 Celular: (48) 9 9938-0203
 - 📫 Email: luanzanardo2021@outlook.com
 - 📚 Ensino médio completo
