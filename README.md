@@ -6,7 +6,7 @@
 - 📫 Email: luanzanardo2021@outlook.com
 - 📚 Ensino médio completo
 - 💻 Curso de informática completo
-- 🖥️ Engenharia de Software | 3° FASE | UNISATC
+- 🖥️ Engenharia de Software | 4° FASE | UNISATC
 
 <br>![Luan GitHub stats](https://github-readme-stats.vercel.app/api?username=Luan-zanardo&theme=midnight-purple&show_icons=true)
 <br>
