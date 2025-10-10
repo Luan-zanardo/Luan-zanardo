@@ -45,5 +45,3 @@
 - 🐍 [Python](https://github.com/Luan-zanardo/Phyton) — scripts e projetos em Python  
 - 💾 [SQL](https://github.com/Luan-zanardo/SQL) — consultas e estruturas de banco de dados  
 - 💻 [React Native](https://github.com/Luan-zanardo/React-Native) — aplicativos mobile  
-- 🧠 [Projetos de Estudo](https://github.com/Luan-zanardo/Estudos) — exercícios e experimentos  
-
