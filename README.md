@@ -44,15 +44,16 @@
 
 ### Curso Técnico de Informática (SATC)
 
-• [Unity Projects](https://github.com/Luan-zanardo/Unity) — jogos e sistemas desenvolvidos em Unity 2D/3D  
-• [VisualG](https://github.com/Luan-zanardo/VisualG) — exercícios e projetos de lógica de programação feitos no VisualG
-• [Arduino](https://github.com/Luan-zanardo/Arduino) — projetos com sensores e automação  
-• [Python](https://github.com/Luan-zanardo/Phyton) — scripts e projetos em Python  
-• [Front-end](https://github.com/Luan-zanardo/Front-end) — sites e interfaces em HTML, CSS e JavaScript  
-• [React Native](https://github.com/Luan-zanardo/React-Native) — aplicativos mobile
-• [SQL](https://github.com/Luan-zanardo/SQL) — consultas e estruturas de banco de dados  
-• [PHP](https://github.com/Luan-zanardo/PHP) — desenvolvimento de sistemas web e integração com banco de dados
-• [POO](https://github.com/Luan-zanardo/Programa-o-orientada-a-objeto-POO-) — Projetos e exercícios de Programação Orientada a Objetos
+[![VisualG](https://img.shields.io/badge/VisualG-800080?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://github.com/Luan-zanardo/VisualG)
+• [Unity Projects](https://github.com/Luan-zanardo/Unity) - jogos e sistemas desenvolvidos em Unity 2D/3D
+• [VisualG](https://github.com/Luan-zanardo/VisualG) - exercícios e projetos de lógica de programação feitos no VisualG
+• [Arduino](https://github.com/Luan-zanardo/Arduino) - projetos com sensores e automação
+• [Python](https://github.com/Luan-zanardo/Phyton) - scripts e projetos em Python
+• [Front-end](https://github.com/Luan-zanardo/Front-end) - sites e interfaces em HTML, CSS e JavaScript
+• [React Native](https://github.com/Luan-zanardo/React-Native) - aplicativos mobile
+• [SQL](https://github.com/Luan-zanardo/SQL) - consultas e estruturas de banco de dados
+• [PHP](https://github.com/Luan-zanardo/PHP) - desenvolvimento de sistemas web e integração com banco de dados
+• [POO](https://github.com/Luan-zanardo/Programa-o-orientada-a-objeto-POO-) - Projetos e exercícios de Programação Orientada a Objetos
 
 ### Faculdade Engenharia de Software (SATC)
 
