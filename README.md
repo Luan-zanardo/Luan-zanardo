@@ -44,36 +44,36 @@
 
 ### Projetos Pessoais
 
-- 🎮 [Unity Projects](https://github.com/Luan-zanardo/Unity) — jogos e sistemas desenvolvidos em Unity 2D/3D  
-- 🌐 [Front-end](https://github.com/Luan-zanardo/Front-end) — sites e interfaces em HTML, CSS e JavaScript  
-- 🤖 [Arduino](https://github.com/Luan-zanardo/Arduino) — projetos com sensores e automação  
-- 🐍 [Python](https://github.com/Luan-zanardo/Phyton) — scripts e projetos em Python  
-- 💾 [SQL](https://github.com/Luan-zanardo/SQL) — consultas e estruturas de banco de dados  
-- 💻 [React Native](https://github.com/Luan-zanardo/React-Native) — aplicativos mobile
-- 
-## Curso Técnico de Informática (SATC)
+• 🎮 [Unity Projects](https://github.com/Luan-zanardo/Unity) — jogos e sistemas desenvolvidos em Unity 2D/3D  
+• 🌐 [Front-end](https://github.com/Luan-zanardo/Front-end) — sites e interfaces em HTML, CSS e JavaScript  
+• 🤖 [Arduino](https://github.com/Luan-zanardo/Arduino) — projetos com sensores e automação  
+• 🐍 [Python](https://github.com/Luan-zanardo/Phyton) — scripts e projetos em Python  
+• 💾 [SQL](https://github.com/Luan-zanardo/SQL) — consultas e estruturas de banco de dados  
+• 💻 [React Native](https://github.com/Luan-zanardo/React-Native) — aplicativos mobile
 
-- 🎮 [Unity Projects](https://github.com/Luan-zanardo/Unity) — jogos e sistemas desenvolvidos em Unity 2D/3D  
-- 🌐 [Front-end](https://github.com/Luan-zanardo/Front-end) — sites e interfaces em HTML, CSS e JavaScript  
-- 🤖 [Arduino](https://github.com/Luan-zanardo/Arduino) — projetos com sensores e automação  
-- 🐍 [Python](https://github.com/Luan-zanardo/Phyton) — scripts e projetos em Python  
-- 💾 [SQL](https://github.com/Luan-zanardo/SQL) — consultas e estruturas de banco de dados  
-- 💻 [React Native](https://github.com/Luan-zanardo/React-Native) — aplicativos mobile
+### Curso Técnico de Informática (SATC)
 
-## Faculdade Engenharia de Software (SATC)
+• 🎮 [Unity Projects](https://github.com/Luan-zanardo/Unity) — jogos e sistemas desenvolvidos em Unity 2D/3D  
+• 🌐 [Front-end](https://github.com/Luan-zanardo/Front-end) — sites e interfaces em HTML, CSS e JavaScript  
+• 🤖 [Arduino](https://github.com/Luan-zanardo/Arduino) — projetos com sensores e automação  
+• 🐍 [Python](https://github.com/Luan-zanardo/Phyton) — scripts e projetos em Python  
+• 💾 [SQL](https://github.com/Luan-zanardo/SQL) — consultas e estruturas de banco de dados  
+• 💻 [React Native](https://github.com/Luan-zanardo/React-Native) — aplicativos mobile
 
-- 🎮 [Unity Projects](https://github.com/Luan-zanardo/Unity) — jogos e sistemas desenvolvidos em Unity 2D/3D  
-- 🌐 [Front-end](https://github.com/Luan-zanardo/Front-end) — sites e interfaces em HTML, CSS e JavaScript  
-- 🤖 [Arduino](https://github.com/Luan-zanardo/Arduino) — projetos com sensores e automação  
-- 🐍 [Python](https://github.com/Luan-zanardo/Phyton) — scripts e projetos em Python  
-- 💾 [SQL](https://github.com/Luan-zanardo/SQL) — consultas e estruturas de banco de dados  
-- 💻 [React Native](https://github.com/Luan-zanardo/React-Native) — aplicativos mobile
+### Faculdade Engenharia de Software (SATC)
 
-## Cursos Alura
+• 🎮 [Unity Projects](https://github.com/Luan-zanardo/Unity) — jogos e sistemas desenvolvidos em Unity 2D/3D  
+• 🌐 [Front-end](https://github.com/Luan-zanardo/Front-end) — sites e interfaces em HTML, CSS e JavaScript  
+• 🤖 [Arduino](https://github.com/Luan-zanardo/Arduino) — projetos com sensores e automação  
+• 🐍 [Python](https://github.com/Luan-zanardo/Phyton) — scripts e projetos em Python  
+• 💾 [SQL](https://github.com/Luan-zanardo/SQL) — consultas e estruturas de banco de dados  
+• 💻 [React Native](https://github.com/Luan-zanardo/React-Native) — aplicativos mobile
 
-- 🎮 [Unity Projects](https://github.com/Luan-zanardo/Unity) — jogos e sistemas desenvolvidos em Unity 2D/3D  
-- 🌐 [Front-end](https://github.com/Luan-zanardo/Front-end) — sites e interfaces em HTML, CSS e JavaScript  
-- 🤖 [Arduino](https://github.com/Luan-zanardo/Arduino) — projetos com sensores e automação  
-- 🐍 [Python](https://github.com/Luan-zanardo/Phyton) — scripts e projetos em Python  
-- 💾 [SQL](https://github.com/Luan-zanardo/SQL) — consultas e estruturas de banco de dados  
-- 💻 [React Native](https://github.com/Luan-zanardo/React-Native) — aplicativos mobile
+### Cursos Alura
+
+• 🎮 [Unity Projects](https://github.com/Luan-zanardo/Unity) — jogos e sistemas desenvolvidos em Unity 2D/3D  
+• 🌐 [Front-end](https://github.com/Luan-zanardo/Front-end) — sites e interfaces em HTML, CSS e JavaScript  
+• 🤖 [Arduino](https://github.com/Luan-zanardo/Arduino) — projetos com sensores e automação  
+• 🐍 [Python](https://github.com/Luan-zanardo/Phyton) — scripts e projetos em Python  
+• 💾 [SQL](https://github.com/Luan-zanardo/SQL) — consultas e estruturas de banco de dados  
+• 💻 [React Native](https://github.com/Luan-zanardo/React-Native) — aplicativos mobile
