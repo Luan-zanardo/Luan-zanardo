@@ -63,6 +63,8 @@
 | Repositório | Descrição |
 |:--|:--|
 | [**Python Faculdade**](https://github.com/Luan-zanardo/Python-Faculdade) | Exercícios e projetos desenvolvidos nas aulas de Python na graduação |
+| [**Backend**](https://github.com/Luan-zanardo/Backend) | Exercícios e projetos desenvolvidos nas aulas de Backend na graduação |
+
 
 #### 🧩 Projetos
 
