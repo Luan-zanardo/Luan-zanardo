@@ -37,4 +37,22 @@
   <a href="https://lz7dev.itch.io"><img src= "https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/></a>
 </div>
 
+## 📂 Meus Repositórios
+
+- 🎮 [Unity Projects](https://github.com/Luan-zanardo/Unity) — jogos e sistemas desenvolvidos em Unity 2D/3D  
+- 🌐 [Front-end](https://github.com/Luan-zanardo/Front-end) — sites e interfaces em HTML, CSS e JavaScript  
+- 🤖 [Arduino](https://github.com/Luan-zanardo/Arduino) — projetos com sensores e automação  
+- 🐍 [Python](https://github.com/Luan-zanardo/Python) — scripts e projetos em Python  
+- 💾 [SQL](https://github.com/Luan-zanardo/SQL) — consultas e estruturas de banco de dados  
+- 💻 [React Native](https://github.com/Luan-zanardo/React-Native) — aplicativos mobile  
+- 🧠 [Projetos de Estudo](https://github.com/Luan-zanardo/Estudos) — exercícios e experimentos  
+
+## 📂 Meus Repositórios
+
+[![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/Luan-zanardo/Unity)
+[![Front-End](https://img.shields.io/badge/Front--End-563D7C?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Luan-zanardo/Front-end)
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://github.com/Luan-zanardo/Arduino)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Luan-zanardo/Python)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Luan-zanardo/SQL)
+[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/Luan-zanardo/React-Native)
 
