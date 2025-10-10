@@ -36,9 +36,9 @@
   <a href="https://www.linkedin.com/in/luan-zanardo-7aa6b927b/"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://lz7dev.itch.io"><img src= "https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/></a>
 </div>
-
-
-
+<br>
+<br>
+<br>
 # 📂 Meus Repositórios
 
 ## Projetos Pessoais
