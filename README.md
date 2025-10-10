@@ -42,24 +42,19 @@
 
 # 📂 Meus Repositórios
 
-### 🎓 Curso Técnico de Informática (SATC)
-
-<a href="https://github.com/Luan-zanardo/Unity"><img src="https://img.icons8.com/color/48/000000/unity.png" alt="Unity"/><br>Unity Projects</a>
-<a href="https://github.com/Luan-zanardo/VisualG"><img src="https://img.icons8.com/color/48/000000/code.png" alt="VisualG"/><br>VisualG</a>
-
 ## 🎓 Curso Técnico de Informática (SATC)
 
 | Projeto | Descrição |
 |:--|:--|
-| <a href="https://github.com/Luan-zanardo/Unity" style="text-decoration:none;"><b>Unity Projects</b></a> | Jogos e sistemas desenvolvidos em Unity 2D/3D |
-| <a href="https://github.com/Luan-zanardo/VisualG" style="text-decoration:none;"><b>VisualG</b></a> | Exercícios e projetos de lógica de programação feitos no VisualG |
-| <a href="https://github.com/Luan-zanardo/Arduino" style="text-decoration:none;"><b>Arduino</b></a> | Projetos com sensores e automação |
-| <a href="https://github.com/Luan-zanardo/Python-Curso" style="text-decoration:none;"><b>Python Curso</b></a> | Scripts e projetos em Python |
-| <a href="https://github.com/Luan-zanardo/Front-end" style="text-decoration:none;"><b>Front-end</b></a> | Sites e interfaces em HTML, CSS e JavaScript |
-| <a href="https://github.com/Luan-zanardo/React-Native" style="text-decoration:none;"><b>React Native</b></a> | Aplicativos mobile |
-| <a href="https://github.com/Luan-zanardo/SQL" style="text-decoration:none;"><b>SQL</b></a> | Consultas e estruturas de banco de dados |
-| <a href="https://github.com/Luan-zanardo/PHP" style="text-decoration:none;"><b>PHP</b></a> | Desenvolvimento de sistemas web e integração com banco de dados |
-| <a href="https://github.com/Luan-zanardo/Programa-o-orientada-a-objeto-POO-" style="text-decoration:none;"><b>POO</b></a> | Projetos e exercícios de Programação Orientada a Objetos |
+| [**Unity Projects**](https://github.com/Luan-zanardo/Unity) | Jogos e sistemas desenvolvidos em Unity 2D/3D |
+| [**VisualG**](https://github.com/Luan-zanardo/VisualG) | Exercícios e projetos de lógica de programação feitos no VisualG |
+| [**Arduino**](https://github.com/Luan-zanardo/Arduino) | Projetos com sensores e automação |
+| [**Python Curso**](https://github.com/Luan-zanardo/Python-Curso) | Scripts e projetos em Python |
+| [**Front-end**](https://github.com/Luan-zanardo/Front-end) | Sites e interfaces em HTML, CSS e JavaScript |
+| [**React Native**](https://github.com/Luan-zanardo/React-Native) | Aplicativos mobile |
+| [**SQL**](https://github.com/Luan-zanardo/SQL) | Consultas e estruturas de banco de dados |
+| [**PHP**](https://github.com/Luan-zanardo/PHP) | Desenvolvimento de sistemas web e integração com banco de dados |
+| [**POO**](https://github.com/Luan-zanardo/Programa-o-orientada-a-objeto-POO-) | Projetos e exercícios de Programação Orientada a Objetos |
 
 ## 🎓 Faculdade Engenharia de Software (SATC)
 
@@ -67,18 +62,18 @@
 
 | Repositório | Descrição |
 |:--|:--|
-| <a href="https://github.com/Luan-zanardo/Python-Faculdade" style="text-decoration:none;"><b>Python Faculdade</b></a> | Exercícios e projetos desenvolvidos nas aulas de Python na graduação |
+| [**Python Faculdade**](https://github.com/Luan-zanardo/Python-Faculdade) | Exercícios e projetos desenvolvidos nas aulas de Python na graduação |
 
 ### 🧩 Projetos
 
 | Projeto | Descrição |
 |:--|:--|
-| <a href="https://github.com/Luan-zanardo/Insumix" style="text-decoration:none;"><b>Insumix</b></a> | Sistema completo de gestão de insumos industriais |
-| <a href="https://github.com/Luan-zanardo/Gerenciador360" style="text-decoration:none;"><b>Gerenciador360</b></a> | Sistema de gerenciamento de estoque |
-| <a href="https://github.com/Luan-zanardo/React-Native" style="text-decoration:none;"><b>React Native</b></a> | Aplicativos mobile |
+| [**Insumix**](https://github.com/Luan-zanardo/Insumix) | Sistema completo de gestão de insumos industriais |
+| [**Gerenciador360**](https://github.com/Luan-zanardo/Gerenciador360) | Sistema de gerenciamento de estoque |
+| [**React Native**](https://github.com/Luan-zanardo/React-Native) | Aplicativos mobile |
 
 ## 🧠 Cursos Alura
 
 | Curso / Projeto | Status |
 |:--|:--|
-| *(Em breve será adicionado conteúdo de projetos e certificações Alura)* |Em desenvolvimento |
+| *(Em breve será adicionado conteúdo de projetos e certificações Alura)* | Em desenvolvimento |
