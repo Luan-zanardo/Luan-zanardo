@@ -39,37 +39,40 @@
 <br>
 <br>
 <br>
-
 # 📂 Meus Repositórios
 
----
+## 🎓 Curso Técnico de Informática (SATC)
 
-### 🎓 Curso Técnico de Informática (SATC)
+| Projeto | Descrição |
+|:--|:--|
+| [🎮 **Unity Projects**](https://github.com/Luan-zanardo/Unity) | Jogos e sistemas desenvolvidos em Unity 2D/3D |
+| [🧮 **VisualG**](https://github.com/Luan-zanardo/VisualG) | Exercícios e projetos de lógica de programação feitos no VisualG |
+| [🤖 **Arduino**](https://github.com/Luan-zanardo/Arduino) | Projetos com sensores e automação |
+| [🐍 **Python Curso**](https://github.com/Luan-zanardo/Python-Curso) | Scripts e projetos em Python |
+| [🌐 **Front-end**](https://github.com/Luan-zanardo/Front-end) | Sites e interfaces em HTML, CSS e JavaScript |
+| [📱 **React Native**](https://github.com/Luan-zanardo/React-Native) | Aplicativos mobile |
+| [💾 **SQL**](https://github.com/Luan-zanardo/SQL) | Consultas e estruturas de banco de dados |
+| [🐘 **PHP**](https://github.com/Luan-zanardo/PHP) | Desenvolvimento de sistemas web e integração com banco de dados |
+| [🧠 **POO**](https://github.com/Luan-zanardo/Programa-o-orientada-a-objeto-POO-) | Projetos e exercícios de Programação Orientada a Objetos |
 
-• [🎮 Unity Projects](https://github.com/Luan-zanardo/Unity) — jogos e sistemas desenvolvidos em Unity 2D/3D  
-• [🧮 VisualG](https://github.com/Luan-zanardo/VisualG) — exercícios e projetos de lógica de programação feitos no VisualG  
-• [🤖 Arduino](https://github.com/Luan-zanardo/Arduino) — projetos com sensores e automação  
-• [🐍 Python Curso](https://github.com/Luan-zanardo/Python-Curso) — scripts e projetos em Python  
-• [🌐 Front-end](https://github.com/Luan-zanardo/Front-end) — sites e interfaces em HTML, CSS e JavaScript  
-• [📱 React Native](https://github.com/Luan-zanardo/React-Native) — aplicativos mobile  
-• [💾 SQL](https://github.com/Luan-zanardo/SQL) — consultas e estruturas de banco de dados  
-• [🐘 PHP](https://github.com/Luan-zanardo/PHP) — desenvolvimento de sistemas web e integração com banco de dados  
-• [🧠 POO](https://github.com/Luan-zanardo/Programa-o-orientada-a-objeto-POO-) — projetos e exercícios de Programação Orientada a Objetos  
+## 🎓 Faculdade Engenharia de Software (SATC)
 
----
+### 📘 Matérias
 
-### 🎓 Faculdade Engenharia de Software (SATC)
+| Repositório | Descrição |
+|:--|:--|
+| [🐍 **Python Faculdade**](https://github.com/Luan-zanardo/Python-Faculdade) | Exercícios e projetos desenvolvidos nas aulas de Python na graduação |
 
-#### 📘 Matérias
-• [🐍 Python Faculdade](https://github.com/Luan-zanardo/Python-Faculdade)
+### 🧩 Projetos
 
-#### 🧩 Projetos
-• [🏭 Insumix](https://github.com/Luan-zanardo/Insumix) — sistema completo de gestão de insumos industriais  
-• [📦 Gerenciador360](https://github.com/Luan-zanardo/Gerenciador360) — sistema de gerenciamento de estoque  
-• [📱 React Native](https://github.com/Luan-zanardo/React-Native) — aplicativos mobile  
+| Projeto | Descrição |
+|:--|:--|
+| [🏭 **Insumix**](https://github.com/Luan-zanardo/Insumix) | Sistema completo de gestão de insumos industriais |
+| [📦 **Gerenciador360**](https://github.com/Luan-zanardo/Gerenciador360) | Sistema de gerenciamento de estoque |
+| [📱 **React Native**](https://github.com/Luan-zanardo/React-Native) | Aplicativos mobile |
 
----
+## 🧠 Cursos Alura
 
-### 🧠 Cursos Alura
-*(Em breve será adicionado conteúdo de projetos e certificações Alura)*
-
+| Curso / Projeto | Status |
+|:--|:--|
+| *(Em breve será adicionado conteúdo de projetos e certificações Alura)* | 🚧 Em desenvolvimento |
