@@ -44,7 +44,6 @@
 
 ### Curso Técnico de Informática (SATC)
 
-[![VisualG](https://img.shields.io/badge/VisualG-800080?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://github.com/Luan-zanardo/VisualG)
 • [Unity Projects](https://github.com/Luan-zanardo/Unity) - jogos e sistemas desenvolvidos em Unity 2D/3D 
 • [VisualG](https://github.com/Luan-zanardo/VisualG) - exercícios e projetos de lógica de programação feitos no VisualG 
 • [Arduino](https://github.com/Luan-zanardo/Arduino) - projetos com sensores e automação 
