@@ -56,13 +56,13 @@
 
 ### Faculdade Engenharia de Software (SATC)
 
-<h4>Matérias<h4/>
+####Matérias
   
   • [Unity Projects](https://github.com/Luan-zanardo/Unity) — jogos e sistemas desenvolvidos em Unity 2D/3D  
   • [Front-end](https://github.com/Luan-zanardo/Front-end) — sites e interfaces em HTML, CSS e JavaScript  
   • [Arduino](https://github.com/Luan-zanardo/Arduino) — projetos com sensores e automação   
   
-<h4>Projetos<h4/>
+####Projetos
   
   • [Python](https://github.com/Luan-zanardo/Phyton) — scripts e projetos em Python  
   • [SQL](https://github.com/Luan-zanardo/SQL) — consultas e estruturas de banco de dados  
