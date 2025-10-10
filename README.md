@@ -37,9 +37,11 @@
   <a href="https://lz7dev.itch.io"><img src= "https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/></a>
 </div>
 
-## 📂 Meus Repositórios
 
-# Projetos Pessoais
+
+# 📂 Meus Repositórios
+
+## Projetos Pessoais
 
 - 🎮 [Unity Projects](https://github.com/Luan-zanardo/Unity) — jogos e sistemas desenvolvidos em Unity 2D/3D  
 - 🌐 [Front-end](https://github.com/Luan-zanardo/Front-end) — sites e interfaces em HTML, CSS e JavaScript  
@@ -48,7 +50,7 @@
 - 💾 [SQL](https://github.com/Luan-zanardo/SQL) — consultas e estruturas de banco de dados  
 - 💻 [React Native](https://github.com/Luan-zanardo/React-Native) — aplicativos mobile
 - 
-# Curso Técnico de Informática (SATC)
+## Curso Técnico de Informática (SATC)
 
 - 🎮 [Unity Projects](https://github.com/Luan-zanardo/Unity) — jogos e sistemas desenvolvidos em Unity 2D/3D  
 - 🌐 [Front-end](https://github.com/Luan-zanardo/Front-end) — sites e interfaces em HTML, CSS e JavaScript  
@@ -57,7 +59,7 @@
 - 💾 [SQL](https://github.com/Luan-zanardo/SQL) — consultas e estruturas de banco de dados  
 - 💻 [React Native](https://github.com/Luan-zanardo/React-Native) — aplicativos mobile
 
-# Faculdade Engenharia de Software (SATC)
+## Faculdade Engenharia de Software (SATC)
 
 - 🎮 [Unity Projects](https://github.com/Luan-zanardo/Unity) — jogos e sistemas desenvolvidos em Unity 2D/3D  
 - 🌐 [Front-end](https://github.com/Luan-zanardo/Front-end) — sites e interfaces em HTML, CSS e JavaScript  
@@ -66,7 +68,7 @@
 - 💾 [SQL](https://github.com/Luan-zanardo/SQL) — consultas e estruturas de banco de dados  
 - 💻 [React Native](https://github.com/Luan-zanardo/React-Native) — aplicativos mobile
 
-# Cursos Alura
+## Cursos Alura
 
 - 🎮 [Unity Projects](https://github.com/Luan-zanardo/Unity) — jogos e sistemas desenvolvidos em Unity 2D/3D  
 - 🌐 [Front-end](https://github.com/Luan-zanardo/Front-end) — sites e interfaces em HTML, CSS e JavaScript  
