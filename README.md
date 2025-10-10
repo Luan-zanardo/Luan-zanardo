@@ -44,15 +44,15 @@
 
 ### Curso Técnico de Informática (SATC)
 
-• [Unity Projects](https://github.com/Luan-zanardo/Unity) - jogos e sistemas desenvolvidos em Unity 2D/3D 
-• [VisualG](https://github.com/Luan-zanardo/VisualG) - exercícios e projetos de lógica de programação feitos no VisualG 
-• [Arduino](https://github.com/Luan-zanardo/Arduino) - projetos com sensores e automação 
-• [Python Curso](https://github.com/Luan-zanardo/Python-Curso) - scripts e projetos em Python 
-• [Front-end](https://github.com/Luan-zanardo/Front-end) - sites e interfaces em HTML, CSS e JavaScript 
-• [React Native](https://github.com/Luan-zanardo/React-Native) - aplicativos mobile 
-• [SQL](https://github.com/Luan-zanardo/SQL) - consultas e estruturas de banco de dados 
-• [PHP](https://github.com/Luan-zanardo/PHP) - desenvolvimento de sistemas web e integração com banco de dados 
-• [POO](https://github.com/Luan-zanardo/Programa-o-orientada-a-objeto-POO-) - Projetos e exercícios de Programação Orientada a Objetos 
+• [Unity Projects](https://github.com/Luan-zanardo/Unity) - jogos e sistemas desenvolvidos em Unity 2D/3D<br>
+• [VisualG](https://github.com/Luan-zanardo/VisualG) - exercícios e projetos de lógica de programação feitos no VisualG<br>
+• [Arduino](https://github.com/Luan-zanardo/Arduino) - projetos com sensores e automação<br>
+• [Python Curso](https://github.com/Luan-zanardo/Python-Curso) - scripts e projetos em Python<br>
+• [Front-end](https://github.com/Luan-zanardo/Front-end) - sites e interfaces em HTML, CSS e JavaScript<br>
+• [React Native](https://github.com/Luan-zanardo/React-Native) - aplicativos mobile<br>
+• [SQL](https://github.com/Luan-zanardo/SQL) - consultas e estruturas de banco de dados<br>
+• [PHP](https://github.com/Luan-zanardo/PHP) - desenvolvimento de sistemas web e integração com banco de dados<br>
+• [POO](https://github.com/Luan-zanardo/Programa-o-orientada-a-objeto-POO-) - Projetos e exercícios de Programação Orientada a Objetos<br>
 
 ### Faculdade Engenharia de Software (SATC)
 
@@ -62,8 +62,8 @@
   
 #### Projetos:
   
-  • [Insumix](https://github.com/Luan-zanardo/Insumix) — Sistema completo de gestão de insumos industriais
-  • [Gerenciador360](https://github.com/Luan-zanardo/Gerenciador360) — Sistema de Gerenciamento de estoque  
-  • [React Native](https://github.com/Luan-zanardo/React-Native) — aplicativos mobile
+  • [Insumix](https://github.com/Luan-zanardo/Insumix) — Sistema completo de gestão de insumos industriais<br>
+  • [Gerenciador360](https://github.com/Luan-zanardo/Gerenciador360) — Sistema de Gerenciamento de estoque<br>
+  • [React Native](https://github.com/Luan-zanardo/React-Native) — aplicativos mobile<br>
 
 ### Cursos Alura
