@@ -42,7 +42,7 @@
 
 # 📂 Meus Repositórios
 
-## 🎓 Curso Técnico de Informática (SATC)
+### 🎓 Curso Técnico de Informática (SATC)
 
 | Projeto | Descrição |
 |:--|:--|
@@ -56,15 +56,15 @@
 | [**PHP**](https://github.com/Luan-zanardo/PHP) | Desenvolvimento de sistemas web e integração com banco de dados |
 | [**POO**](https://github.com/Luan-zanardo/Programa-o-orientada-a-objeto-POO-) | Projetos e exercícios de Programação Orientada a Objetos |
 
-## 🎓 Faculdade Engenharia de Software (SATC)
+### 🎓 Faculdade Engenharia de Software (SATC)
 
-### 📘 Matérias
+#### 📘 Matérias
 
 | Repositório | Descrição |
 |:--|:--|
 | [**Python Faculdade**](https://github.com/Luan-zanardo/Python-Faculdade) | Exercícios e projetos desenvolvidos nas aulas de Python na graduação |
 
-### 🧩 Projetos
+#### 🧩 Projetos
 
 | Projeto | Descrição |
 |:--|:--|
@@ -72,7 +72,7 @@
 | [**Gerenciador360**](https://github.com/Luan-zanardo/Gerenciador360) | Sistema de gerenciamento de estoque |
 | [**React Native**](https://github.com/Luan-zanardo/React-Native) | Aplicativos mobile |
 
-## 🧠 Cursos Alura
+### 🧠 Cursos Alura
 
 | Curso / Projeto | Status |
 |:--|:--|
