@@ -78,4 +78,4 @@
 
 | Curso / Projeto | Status |
 |:--|:--|
-| *(Em breve será adicionado conteúdo de projetos e certificações Alura)* | Em desenvolvimento |
+| [**React**](https://github.com/Luan-zanardo/cinetag) | React: praticando React com Js |
