@@ -48,11 +48,14 @@
 
 ### Curso Técnico de Informática (SATC)
 
-• 🌐 [Front-end](https://github.com/Luan-zanardo/Front-end) — sites e interfaces em HTML, CSS e JavaScript  
-• 🤖 [Arduino](https://github.com/Luan-zanardo/Arduino) — projetos com sensores e automação  
-• 🐍 [Python](https://github.com/Luan-zanardo/Phyton) — scripts e projetos em Python  
-• 💾 [SQL](https://github.com/Luan-zanardo/SQL) — consultas e estruturas de banco de dados  
-• 💻 [React Native](https://github.com/Luan-zanardo/React-Native) — aplicativos mobile
+• [VisualG](https://github.com/Luan-zanardo/VisualG) — exercícios e projetos de lógica de programação feitos no VisualG
+• [Arduino](https://github.com/Luan-zanardo/Arduino) — projetos com sensores e automação  
+• [Python](https://github.com/Luan-zanardo/Phyton) — scripts e projetos em Python  
+• [Front-end](https://github.com/Luan-zanardo/Front-end) — sites e interfaces em HTML, CSS e JavaScript  
+• [React Native](https://github.com/Luan-zanardo/React-Native) — aplicativos mobile
+• [SQL](https://github.com/Luan-zanardo/SQL) — consultas e estruturas de banco de dados  
+• [PHP](https://github.com/Luan-zanardo/PHP) — desenvolvimento de sistemas web e integração com banco de dados
+• [POO](https://github.com/Luan-zanardo/Programa-o-orientada-a-objeto-POO-) — Projetos e exercícios de Programação Orientada a Objetos
 
 ### Faculdade Engenharia de Software (SATC)
 
@@ -64,8 +67,8 @@
   
 #### Projetos:
   
-  • [Python](https://github.com/Luan-zanardo/Phyton) — scripts e projetos em Python  
-  • [SQL](https://github.com/Luan-zanardo/SQL) — consultas e estruturas de banco de dados  
+  • [Insumix](https://github.com/Luan-zanardo/Insumix) — Sistema completo de gestão de insumos industriais
+  • [Gerenciador360](https://github.com/Luan-zanardo/Gerenciador360) — Sistema de Gerenciamento de estoque  
   • [React Native](https://github.com/Luan-zanardo/React-Native) — aplicativos mobile
 
 ### Cursos Alura
