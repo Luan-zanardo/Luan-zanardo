@@ -42,6 +42,11 @@
 
 # 📂 Meus Repositórios
 
+### 🎓 Curso Técnico de Informática (SATC)
+
+<a href="https://github.com/Luan-zanardo/Unity"><img src="https://img.icons8.com/color/48/000000/unity.png" alt="Unity"/><br>Unity Projects</a>
+<a href="https://github.com/Luan-zanardo/VisualG"><img src="https://img.icons8.com/color/48/000000/code.png" alt="VisualG"/><br>VisualG</a>
+
 ## 🎓 Curso Técnico de Informática (SATC)
 
 | Projeto | Descrição |
@@ -77,4 +82,3 @@
 | Curso / Projeto | Status |
 |:--|:--|
 | *(Em breve será adicionado conteúdo de projetos e certificações Alura)* |Em desenvolvimento |
-
