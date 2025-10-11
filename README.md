@@ -76,6 +76,6 @@
 
 ### 🧠 Cursos Alura
 
-| Curso | Status |
+| Curso / Projetos| Status |
 |:--|:--|
 | [**React**](https://github.com/Luan-zanardo/cinetag) | React: praticando React com Js |
