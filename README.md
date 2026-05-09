@@ -7,8 +7,6 @@
 - 💻 Curso de informática completo 
 - 🖥️ Engenharia de Software | 5° FASE | UNISATC
 
----
-
 ## 📌 Informações
 
 - 🎂 19 anos
@@ -17,8 +15,6 @@
 - 📱 WhatsApp: +55 (48) 99938-0203
 - 🎓 Ensino Médio Completo
 - 💻 Curso Técnico de Informática Completo
-
----
 
 ## 📊 Estatísticas GitHub
 
@@ -29,8 +25,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-zanardo&layout=compact&theme=midnight-purple"/>
 
 </div>
-
----
 
 ## 🚀 Tecnologias
 
@@ -48,7 +42,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40"/>
 </p>
----
 
 ## 🌐 Redes Sociais
 
