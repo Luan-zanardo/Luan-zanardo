@@ -1,9 +1,11 @@
-# 👋 Olá, eu sou Luan Zuchinali Zanardo
-
-💻 Estudante de Engenharia de Software  
-📚 5ª Fase — UNISATC  
-🚀 Desenvolvedor focado em Front-end, Mobile e Back-end  
-🎮 Apaixonado por tecnologia, jogos e desenvolvimento de software  
+# Bem-vindo 
+- 🧐 Nome: Luan Zuchinali Zanardo 
+- 🍰 Idade: 19 anos 
+- 📞 Celular: (48) 9 9938-0203 
+- 📫 Email: luanzuchinali@gmail.com 
+- 📚 Ensino médio completo 
+- 💻 Curso de informática completo 
+- 🖥️ Engenharia de Software | 5° FASE | UNISATC
 
 ---
 
