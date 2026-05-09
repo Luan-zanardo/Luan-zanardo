@@ -16,16 +16,6 @@
 - 🎓 Ensino Médio Completo
 - 💻 Curso Técnico de Informática Completo
 
-## 📊 Estatísticas GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luan-zanardo&show_icons=true&theme=midnight-purple"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-zanardo&layout=compact&theme=midnight-purple"/>
-
-</div>
-
 ## 🚀 Tecnologias
 
 <p align="left">
