@@ -1,4 +1,4 @@
-# Bem-vindo 
+## 📌 Informações
 - 🧐 Nome: Luan Zuchinali Zanardo 
 - 🍰 Idade: 19 anos 
 - 📞 Celular: (48) 9 9938-0203 
@@ -6,15 +6,6 @@
 - 📚 Ensino médio completo 
 - 💻 Curso de informática completo 
 - 🖥️ Engenharia de Software | 5° FASE | UNISATC
-
-## 📌 Informações
-
-- 🎂 19 anos
-- 📍 Brasil
-- 📫 Email: luanzuchinali@gmail.com
-- 📱 WhatsApp: +55 (48) 99938-0203
-- 🎓 Ensino Médio Completo
-- 💻 Curso Técnico de Informática Completo
 
 ## 🚀 Tecnologias
 
