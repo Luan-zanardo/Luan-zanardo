@@ -66,8 +66,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 <img height="200" src="https://24.media.tumblr.com/8f8bbdbc88fae3d8d80e87a2a21c9d33/tumblr_mrkvtvAQtV1s6kmuwo1_500.gif"/>
